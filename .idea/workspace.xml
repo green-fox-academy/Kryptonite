@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="7831b26b-9304-41a7-9f30-9a3c15adef2a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/Greet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Greet.java" afterDir="false" />
     </list>
+=======
+    <list default="true" id="7831b26b-9304-41a7-9f30-9a3c15adef2a" name="Default Changelist" comment="" />
+>>>>>>> d2fc0ed8b6da72d899c597711e62d743b76d2097
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,29 +19,57 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Count/Count.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="88">
               <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="85">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+=======
+            <state relative-caret-position="64">
+              <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+>>>>>>> a230f7b7b6addeece07a00b0b1f7ae12b3d79f27
+>>>>>>> d2fc0ed8b6da72d899c597711e62d743b76d2097
               <folding>
-                <element signature="e#60#61#0" expanded="true" />
-                <element signature="e#105#106#0" expanded="true" />
+                <element signature="e#90#91#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Greet.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Future/Future.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="66">
               <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="68">
+              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+>>>>>>> d2fc0ed8b6da72d899c597711e62d743b76d2097
               <folding>
-                <element signature="e#44#45#0" expanded="true" />
-                <element signature="e#80#81#0" expanded="true" />
+                <element signature="e#55#56#0" expanded="true" />
+                <element signature="e#89#90#0" expanded="true" />
               </folding>
+=======
+            <state relative-caret-position="32">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Cheer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+>>>>>>> a230f7b7b6addeece07a00b0b1f7ae12b3d79f27
             </state>
           </provider>
         </entry>
@@ -70,9 +102,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/Count/Count.java" />
         <option value="$PROJECT_DIR$/src/Future/Future.java" />
+=======
+>>>>>>> d2fc0ed8b6da72d899c597711e62d743b76d2097
         <option value="$PROJECT_DIR$/src/Greet.java" />
+        <option value="$PROJECT_DIR$/src/Count/Count.java" />
       </list>
     </option>
   </component>
@@ -89,6 +125,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+>>>>>>> d2fc0ed8b6da72d899c597711e62d743b76d2097
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,8 +158,11 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
       <pane id="Scope" />
+=======
+>>>>>>> d2fc0ed8b6da72d899c597711e62d743b76d2097
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -152,19 +196,35 @@
       <option name="presentableId" value="Default" />
       <updated>1560775944145</updated>
       <workItem from="1560775947154" duration="761000" />
+<<<<<<< HEAD
       <workItem from="1560777335325" duration="50000" />
       <workItem from="1560777615606" duration="790000" />
+=======
+      <workItem from="1560777335325" duration="849000" />
+>>>>>>> d2fc0ed8b6da72d899c597711e62d743b76d2097
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="1601000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="1610000" />
+=======
+    <option name="totallyTimeSpent" value="996000" />
+>>>>>>> a230f7b7b6addeece07a00b0b1f7ae12b3d79f27
+>>>>>>> d2fc0ed8b6da72d899c597711e62d743b76d2097
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25642672" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966533" />
+>>>>>>> d2fc0ed8b6da72d899c597711e62d743b76d2097
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -199,18 +259,29 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/Count/Count.java">
+    <entry file="file://$PROJECT_DIR$/src/Greet.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="88">
           <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+=======
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+>>>>>>> a230f7b7b6addeece07a00b0b1f7ae12b3d79f27
+>>>>>>> d2fc0ed8b6da72d899c597711e62d743b76d2097
           <folding>
-            <element signature="e#60#61#0" expanded="true" />
-            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#44#45#0" expanded="true" />
+            <element signature="e#80#81#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Future/Future.java">
+<<<<<<< HEAD
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
@@ -225,9 +296,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+=======
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="68">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+>>>>>>> d2fc0ed8b6da72d899c597711e62d743b76d2097
           <folding>
-            <element signature="e#44#45#0" expanded="true" />
-            <element signature="e#80#81#0" expanded="true" />
+            <element signature="e#55#56#0" expanded="true" />
+            <element signature="e#89#90#0" expanded="true" />
+=======
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cheer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Count/Count.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding>
+            <element signature="e#90#91#0" expanded="true" />
+>>>>>>> a230f7b7b6addeece07a00b0b1f7ae12b3d79f27
           </folding>
         </state>
       </provider>
