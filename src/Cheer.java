@@ -1,5 +1,5 @@
 public class Cheer {
-  public void cheer() {
-    System.out.println("Java");
+  public void cheer(String parameter) {
+    System.out.println("Cheer for the " + parameter);
   }
 }
