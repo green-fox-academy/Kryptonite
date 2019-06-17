@@ -2,7 +2,7 @@ package Count;
 
 public class Count {
 
-  public void count() {
-    System.out.println("My age is 26.");
+  public void count(int n) {
+    System.out.println("My age is " + n +".");
   }
 }
