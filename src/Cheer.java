@@ -1,5 +1,5 @@
 public class Cheer {
   public void cheer() {
-    System.out.println("Bandi");
+    System.out.println("Java");
   }
 }
