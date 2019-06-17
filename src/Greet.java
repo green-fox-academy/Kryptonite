@@ -1,6 +1,9 @@
 public class Greet {
 
+
   public void greet() {
-    System.out.println("Dani");
+    System.out.println("Greetings");
+
+
   }
 }
