@@ -1,6 +1,6 @@
 public class Greet {
 
-  public void greet(String name, String title) {
-    System.out.println("My name is " + name + " and I am a " + title);
+  public void greet(String param) {
+    System.out.println("Greetings for the " + param);
   }
 }
